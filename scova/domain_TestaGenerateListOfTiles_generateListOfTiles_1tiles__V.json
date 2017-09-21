@@ -1,0 +1,10 @@
+{
+  "test_name": "domain/TestaGenerateListOfTiles.generateListOfTiles_1tiles()V",
+  "modified_states": "2",
+  "covered_states": "1",
+  "useless_covered_states": "1",
+  "modified":  [ "domain/Tile.hash", "domain/Tile.number" ],
+  "covered":  [ "domain/Tile.number" ],
+  "useless":  [ "domain/TestaGenerateListOfTiles.game" ],
+  "state_coverage": "0.5"
+}
