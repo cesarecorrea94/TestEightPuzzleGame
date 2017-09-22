@@ -1,2 +1,6 @@
-/bin/*
-/scova/*
+/*
+!/.*
+!/src
+!/test
+!/lib
+!/misc
